@@ -1,8 +1,6 @@
 # i915-sriov-kmod
 
-~~Akmod version of https://github.com/strongtz/i915-sriov-dkms to allow installation on Fedora/RPM based systems.~~
-
-Akmod version of https://github.com/sihawken/i915-sriov-dkms to allow installation on Fedora/RPM based systems. (Newer version of i915 library taken from https://github.com/intel/mainline-tracking/tree/linux/v6.5)
+Akmod version of https://github.com/strongtz/i915-sriov-dkms to allow installation on Fedora/RPM based systems.
 
 Add the copr repository and install:
 ## Fedora Workstation:
